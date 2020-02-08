@@ -134,7 +134,7 @@ transition: ease 0.4s all;
 }
 
 .events-detail li:hover {
-background: blue;
+background: rgb(84, 84, 219);
 }
 
 .event-time {
